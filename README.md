@@ -13,7 +13,7 @@ Founder of [Higgsoft](https://higgsoft.net), where I take products from idea to 
 **Founder & Developer, [Higgsoft](https://higgsoft.net)**
 - **[anilive](https://anilive.net)**: QR-based photo sharing for weddings and events. Guests upload memories without installing an app. Live and in use.
 - **[inHR](https://inthrpro.com)**: AI-assisted hiring platform for HR teams and recruitment agencies. *Open-source prototype of its screening engine: [CV Evaluator](https://github.com/malisevdinoglu/CV-Evulator-in-LLM-) (local LLaMA 3.1, weighted criteria scoring).*
-- **inHR App** *(in development)*: AI interview simulator for candidates, built natively for iOS.
+- **inHR App** *(in development)*: AI interview simulator for candidates, for iOS and Android.
 
 ---
 
